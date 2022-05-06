@@ -16,7 +16,7 @@ You can also download the data here in <a href="https://raw.githubusercontent.co
  
 Taller blocks correspond to higher carbon emissions per capita. Caebon emissions per person correspond to average tonnes of C02 per person and the deciles are determined by pretax income inequality.  Countries with larger populations are assigned more blocks. Colours correspond to how rich the country is in 1990, with poorer countries shaded red and richer countries shaded green. Countries are ordered according to mean income level in each year, while holding colours fixed from the 1990 levels. Therefore with these figures we can see inequality within and across countries over time as well as changes in average income.
 
-[![image](/img/fig_1990.svg){:class="img-responsive" height="100%" width="100%"}](html/fig_1905.html)
+[![image](/img/fig_1990.svg){:class="img-responsive" height="100%" width="100%"}](html/fig_1990.html)
 
 This work was created for [The CORE Project](http://www.core-econ.org/). CORE is an open-access, interactive ebook-based course for anyone interested in learning about the economy and economics.
 
