@@ -1,4 +1,5 @@
 ---
+options(width = 60)
 title: World Distribution of Carbon Emissions
 ---
 
