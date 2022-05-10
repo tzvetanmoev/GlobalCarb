@@ -31,7 +31,7 @@ Questions? Comments? Concerns? Get in touch with me Tzvetan Moev using tz.moev@g
 
 This website is an updated version of Jack Blundell's <a href="https://jackblun.github.io/Globalinc/">Globalinc</a>. I have mostly used his coding for this project, so we owe him a massive thanks. This could not have been possible without his efforts. 
 
-For more information on how WID collects data on wealth and income, please refer to [this report](https://wid.world/news-article/2020-distributional-national-accounts-guidelines-dina/).
+For more information on how the data on carbon inequality was collected, please refer to the insightful papers by Prof Lucas Chancel who created the database ([Chancel, 2021](https://wid.world/news-article/climate-change-the-global-inequality-of-carbon-emissions/); [Chancel, 2022](https://wid.world/document/global-carbon-inequality-1990-2019-wid-world-working-paper-2021-22/))
 
 Visualisations created using [amCharts](https://www.amcharts.com/). 
 
