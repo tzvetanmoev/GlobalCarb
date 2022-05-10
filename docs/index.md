@@ -20,12 +20,22 @@ You can also download the data here in <a href="https://raw.githubusercontent.co
 
 This work was created for [The CORE Project](http://www.core-econ.org/). CORE is an open-access, interactive ebook-based course for anyone interested in learning about the economy and economics.
 
+You can also explore simular interactive visualisations of global *income* inequality and global *wealth* in our companion websites: [WIDmarket_income](https://tzvetanmoev.github.io/WIDmarket_income/) and [WIDwealth](https://tzvetanmoev.github.io/WIDwealth/).
+
+
 ## Contact
 
 Questions? Comments? Concerns? Get in touch with me Tzvetan Moev using tz.moev@gmail.com or tzvetan.moev@kcl.ac.uk
 
+## Acknowledgments
+
 This website is an updated version of Jack Blundell's <a href="https://jackblun.github.io/Globalinc/">Globalinc</a>. I have mostly used his coding for this project, so we owe him a massive thanks. This could not have been possible without his efforts. 
 
+For more information on how the data on carbon inequality was collected, please refer to the insightful papers by Prof Lucas Chancel  ([Chancel, 2021](https://wid.world/news-article/climate-change-the-global-inequality-of-carbon-emissions/); [Chancel, 2022](https://wid.world/document/global-carbon-inequality-1990-2019-wid-world-working-paper-2021-22/) )
+
+Visualisations created using [amCharts](https://www.amcharts.com/) 
+
+Bob Sutcliffe designed the use of skyscraper diagrams for representing global inequality. A first version was published in: Sutcliffe, Robert B. 2001. *100 Ways of Seeing an Unequal World.* London: Zed Books.
 
 
 
