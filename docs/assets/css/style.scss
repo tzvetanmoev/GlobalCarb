@@ -1,8 +1,8 @@
 ---
 ---
-
-@import "{{ site.theme }}";
 $content-width: 80%;
+@import "{{ site.theme }}";
+
 .button {
     background-color: #F55754; /* Red */
     border: none;
