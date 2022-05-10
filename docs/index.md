@@ -8,7 +8,7 @@ title: World Distribution of Carbon Emissions
 
 ## About
 
-We build an interactive visualisation exploring global carbon footprint inequality by country and decile for the period 1990-2019. The data is taken from the [World Inequality Database](https://wid.world//).
+We build an interactive visualisation exploring global carbon footprint inequality by country and decile for the period 1990-2019. The data is taken from the [World Inequality Database](https://wid.world//) (WID).
 
 [Click here to go to the graphs](html/fig_1990.html){: .button}
 
