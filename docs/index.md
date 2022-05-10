@@ -20,7 +20,7 @@ Below you can see the global distribution of carbon emissions in 2019. Taller bl
 
 These visualisations were created for [The CORE Project](http://www.core-econ.org/). CORE is an open-access, interactive ebook-based course for anyone interested in learning about the economy and economics.
 
-You can also explore similar interactive visualisations of global *income* inequality and global *wealth* in our companion websites: [WIDmarket_income](https://tzvetanmoev.github.io/WIDmarket_income/) and [WIDwealth](https://tzvetanmoev.github.io/WIDwealth/).
+You can also explore similar interactive visualisations of global *income* inequality and global *wealth* inequality in our companion websites: [WIDmarket_income](https://tzvetanmoev.github.io/WIDmarket_income/) and [WIDwealth](https://tzvetanmoev.github.io/WIDwealth/).
 
 
 ## Contact
