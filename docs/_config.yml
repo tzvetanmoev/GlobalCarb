@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 name: Global Income Distribution
+title: CORE Skyscraper 3
 
 kramdown:
   parse_block_html: true
