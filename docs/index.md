@@ -12,7 +12,7 @@ We build an interactive visualisation exploring global carbon footprint inequali
 
 [Click here to go to the graphs](html/fig_1990.html){: .button}
 
-You can also download the data here in <a href="https://raw.githubusercontent.com/tzvetanmoev/WIDcarbon/master/wid_car_footprint_usd19_wide.xls" download ="download"> xlsx </a> or <a href="https://raw.githubusercontent.com/tzvetanmoev/WIDcarbon/master/wid_car_footprint_usd19_wide.csv" download ="download"> csv </a> formats.
+You can also download the data here in <a href="https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-3-carbon/master/wid_car_footprint_usd19_wide.xls" download ="download"> xlsx </a> or <a href="https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-3-carbon/master/wid_car_footprint_usd19_wide.csv" download ="download"> csv </a> formats.
  
 Below you can see the distribution of C02 emissions in 2019 both within and between countries.  Taller blocks correspond to higher carbon footprints. We measure carbon footprints via the tonnes of C02 emissions per capita in each decile of the income distribution.  Countries with larger populations are assigned wider blocks. Colours correspond to how rich the country was in 1990, with poorer countries shaded red and richer countries shaded green. Countries are ordered according to national income per capita in each year, while holding colours fixed from the 1990 income per capita ordering. Therefore with these figures we can see inequality within and across countries over time as well as changes in per capita income. You can click on the picture to explore the graph in greater depth.
 
@@ -20,7 +20,7 @@ Below you can see the distribution of C02 emissions in 2019 both within and betw
 
 These visualisations were created for [The CORE Project](http://www.core-econ.org/). CORE is an open-access, interactive ebook-based course for anyone interested in learning about the economy and economics.
 
-You can also explore similar interactive visualisations of global *income* inequality and global *wealth* inequality in our companion websites: [GlobalMarketInc](https://tzvetanmoev.github.io/GlobalMarketInc/) and [GlobalWealth](https://tzvetanmoev.github.io/GlobalWealth/).
+ [CORE Skyscraper 1: Exploring global income inequality](https://tzvetanmoev.github.io/core-skyscraper-1-income/) and [CORE Skyscraper 2: Exploring global wealth inequality](https://tzvetanmoev.github.io/core-skyscraper-2-wealth/)
 
 
 ## Contact
