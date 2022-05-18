@@ -20,7 +20,7 @@ Below you can see the global distribution of carbon footprints across income dec
 
 These visualisations were created for [The CORE Project](http://www.core-econ.org/). CORE is an open-access, interactive ebook-based course for anyone interested in learning about the economy and economics.
 
-You can also explore similar interactive visualisations of the global *income* inequality and the global *wealth* inequality in our companion websites: [CORE Skyscraper 1: Exploring global income inequality](https://tzvetanmoev.github.io/core-skyscraper-1-income/) and [CORE Skyscraper 2: Exploring global wealth inequality](https://tzvetanmoev.github.io/core-skyscraper-2-wealth/)
+You can also explore similar interactive visualisations of global *income* inequality and global *wealth* inequality in our companion websites: [CORE Skyscraper 1: Exploring global income inequality](https://tzvetanmoev.github.io/core-skyscraper-1-income/) and [CORE Skyscraper 2: Exploring global wealth inequality](https://tzvetanmoev.github.io/core-skyscraper-2-wealth/)
 
 
 ## Contact
