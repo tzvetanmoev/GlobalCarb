@@ -11,8 +11,6 @@ title: World Distribution of Carbon Footprints
 We build an interactive visualisation exploring global carbon footprint inequality by country and decile for the period 1990-2019. The data is taken from the [World Inequality Database](https://wid.world//) (WID).
 
 [Click here to go to the graphs](html/fig_1990.html){: .button}
-
-You can also download the data here in <a href="https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-3-carbon/master/wid_car_footprint_usd19_wide.xls" download ="download"> xlsx </a> or <a href="https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-3-carbon/master/wid_car_footprint_usd19_wide.csv" download ="download"> csv </a> formats.
  
 Below you can see the global distribution of carbon footprints across income deciles in 2019. Carbon footprint refers to the tonnes of greenhouse gas emissions per capita in an income decile. Taller blocks correspond to higher carbon footprints.  Countries with larger populations are assigned wider blocks. Colours correspond to how rich the country was in 1990, with poorer countries shaded red and richer countries shaded green. Countries are ordered according to national income per capita in each year, while holding colours fixed from the 1990 income per capita ordering. Therefore, with these figures we can see inequality within and across countries over time as well as changes in per capita income. You can click on the picture to explore the graph in greater depth.
 
@@ -22,6 +20,9 @@ These visualisations were created for [The CORE Project](http://www.core-econ.or
 
 You can also explore similar interactive visualisations of global *income* inequality and global *wealth* inequality in our companion websites: [CORE Skyscraper 1: Exploring global income inequality](https://tzvetanmoev.github.io/core-skyscraper-1-income/) and [CORE Skyscraper 2: Exploring global wealth inequality](https://tzvetanmoev.github.io/core-skyscraper-2-wealth/)
 
+## Access the data
+
+Below you can access the data that we use to create the skyscrapers. Please note that the population data in our dataset does not include the total population in each country but only the adult population (people aged 20 or more). Such differences in population measurement explain why you might notice some discrepancies between our dataset and other sources. You can also download the data here in <a href="https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-3-carbon/master/wid_car_footprint_usd19_wide.xls" download ="download"> xlsx </a> or <a href="https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-3-carbon/master/wid_car_footprint_usd19_wide.csv" download ="download"> csv </a> formats.
 
 ## Contact
 
