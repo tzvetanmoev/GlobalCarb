@@ -1065,7 +1065,7 @@ for (k in st_year:end_year){ #
   cat("		<div id=\"chartdiv\" style=\"width: 100%; height: 600px; background-color: #F3F2F7;\" ></div>")
   cat("\n")
   cat(" <br/>")
-  cat("Download the data in <a href=\"https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-3-carbon/master/wid_car_footprint_usd19_wide.xls\" download =\"download\"> xlsx </a> or <a href=\"https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-3-carbon/master/wid_car_footprint_usd19_wide.csv\" download =\"download\"> csv </a> formats, pick another year, or return to the <a href=\"https://tzvetanmoev.github.io/core-skyscraper-3-carbon/\">home</a> page to learn more about the project <br /> <br />")
+  cat("Return to the <a href=\"https://tzvetanmoev.github.io/core-skyscraper-3-carbon/\">home</a> page to download the data and learn more about the project <br /> <br />")
   cat("\n")
   #cat(" <br/>")
   if (k == 1990){
