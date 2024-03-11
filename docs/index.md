@@ -26,7 +26,7 @@ Below you can access the data that we use to create the skyscrapers. Please note
 
 ## Contact
 
-Questions? Comments? Concerns? Get in touch with Tzvetan Moev using tz.moev@gmail.com or tzvetan.moev@kcl.ac.uk
+Questions? Comments? Concerns? Get in touch with Tzvetan Moev using tz.moev@gmail.com
 
 ## Acknowledgments
 
